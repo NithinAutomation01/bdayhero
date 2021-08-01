@@ -1,1 +1,4 @@
-<?php header('Location: /OPEN.html'); ?>
+<?php 
+include_once("OPEN.html");
+?>
+
